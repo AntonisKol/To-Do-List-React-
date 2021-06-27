@@ -3,10 +3,7 @@
     return (
         <div className="App">
         <input 
-        />
-         
-      
-      
+         />
         </div> 
   
     )
