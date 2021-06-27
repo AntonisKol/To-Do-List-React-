@@ -35,7 +35,8 @@ class App extends React.Component {
         
         return (
             <div className="todo-list">
-                <h2>React To DO List</h2>
+                <h2>To DO List <br/>
+                React</h2>
                    <Input/>
                 {todoItems}
              

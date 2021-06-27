@@ -5,7 +5,6 @@ const completedStyle = {
         color: "#cdcdcd",
         textDecoration: "line-through"
     }
-
 return (
     <div className="todo-item">
 <input 
@@ -17,6 +16,4 @@ return (
     </div>
 )
     }
-    
-    
  export default ToDoItem
