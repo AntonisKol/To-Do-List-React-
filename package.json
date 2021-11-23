@@ -1,6 +1,10 @@
 {
   "name": "todo",
   "version": "0.1.0",
+   "engines": {
+    "node": "14.17.3",
+     "npm": "7.19.1"
+  }
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
@@ -11,9 +15,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
-  "engines": {
-    "node": "14.17.3"
-  }
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
